@@ -1,0 +1,4 @@
+#ifndef CHESS_BOT_MOVES_H
+#define CHESS_BOT_MOVES_H
+
+#endif //CHESS_BOT_MOVES_H
