@@ -31,7 +31,6 @@ struct board {
     char has_moved[6];
 };
 
-void init_board(struct board* board);
 void reset_board(struct board* board);
 int load_from_pgn(struct board* board, char* pgn);
 void print_board(struct board* board);
